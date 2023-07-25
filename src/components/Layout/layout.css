@@ -1,0 +1,49 @@
+.sidebar-section {
+    display: flex;
+    background-color: white;
+    border-radius: 5px;
+
+
+}
+
+.sidebar {
+    height: 100vh;
+    background-color: white;
+    width: 90px;
+    border-radius: 5px;
+    position: fixed;
+}
+
+.sidebar-toggle-icons {
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    cursor: pointer;
+}
+
+.sidebar-toggle-icons p svg {
+    background-color: #1d4ed8;
+    color: white;
+    margin-top: 30px;
+}
+
+.sidebar-toggle {
+    width: 200px;
+}
+
+/* DARK-MODE */
+#dark .sidebar-section {
+    background-color: #2a2b2e;
+}
+
+#dark .sidebar {
+    box-shadow: none;
+    background-color: #2a2b2e;
+}
+
+/* ==== MOBILE VIEW ========== */
+@media (max-width: 600px) {
+    .sidebar {
+        display: none;
+    }
+}
