@@ -38,7 +38,13 @@
 
 @media (min-width: 600px) {
     .mobile-nav {
-      display: none;
+        display: none;
     }
-  }
-  
+
+    .mobile-nav-menu .nav-items .nav-item {
+        background-color: #1e1e1e;
+        padding-left: 400px;
+
+
+    }
+}

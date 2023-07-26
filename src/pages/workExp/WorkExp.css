@@ -7,16 +7,22 @@
   padding: 60px 0px;
 }
 
-.work-exp h2 {
-  font-weight: bold;
-  color: #0ea5e9;
+.work-exp h1 {
   font-family: cursive;
 
 }
 
+.gradient-text {
+  /* Set the background clip to text */
+  -webkit-background-clip: text;
+  background-clip: text;
+  /* Set the text color to transparent, so the gradient background shows through */
+  color: transparent;
+}
+
 .work-exp hr {
   color: #0ea5e9;
-  width: 400px;
+  width: 300px;
   margin: 10px auto;
 }
 
@@ -28,8 +34,7 @@
 }
 
 
-#dark .work-exp h2 {
-  font-weight: bold;
+#dark .work-exp h1 {
   color: whitesmoke;
   font-family: cursive;
 

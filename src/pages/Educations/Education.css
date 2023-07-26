@@ -7,7 +7,7 @@
 
 .education hr {
   color: #0ea5e9;
-  width: 400px;
+  width: 300px;
   margin: 10px auto;
 
 }
@@ -16,11 +16,16 @@
   width: 80%;
 }
 
-.education h2 {
-  font-weight: bold;
-  color: #0ea5e9;
+
+.gradient-text {
+  background-image: linear-gradient(to right, #22D3EE, #3B82F6);
+  /* Set the background clip to text */
+  -webkit-background-clip: text;
+  background-clip: text;
   font-family: cursive;
 
+  /* Set the text color to transparent, so the gradient background shows through */
+  color: transparent;
 }
 
 
@@ -32,7 +37,7 @@
 }
 
 /* ========= DARK MODE ============ */
-#dark .education h2 {
+#dark .education h1 {
   color: whitesmoke;
 }
 
@@ -50,7 +55,7 @@
     margin-top: 30px;
   }
 
-  .education h2 {
+  .education h1 {
     padding-top: 20px;
   }
 

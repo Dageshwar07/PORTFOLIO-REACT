@@ -11,9 +11,9 @@ const WorkExp = () => {
     <>
       <div className="work" id="work">
         <div className="container work-exp">
-          <h2 className="col-12 mt-3 mb-1 text-center text-uppercase">
+          <h1 className=" gradient-text col-12 mt-3 mb-1 text-center">
             Work Experience
-          </h2>
+          </h1>
           <hr />
           <VerticalTimeline lineColor="#0ea5e9">
             <VerticalTimelineElement

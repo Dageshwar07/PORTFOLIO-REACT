@@ -72,16 +72,22 @@ button:focus {
   padding: 10px;
 }
 
-.contact h2 {
-  font-weight: bold;
-  color: #0ea5e9;
+.gradient-text {
+  background-image: linear-gradient(to right, #22D3EE, #3B82F6);
+  /* Set the background clip to text */
+  -webkit-background-clip: text;
+  background-clip: text;
+  text-align: center;
   font-family: cursive;
-
+  /* Set the text color to transparent, so the gradient background shows through */
+  color: transparent;
 }
+
+
 
 .contact hr {
   color: #3b8ff3;
-  width: 210px;
+  width: 180px;
   margin: 10px auto;
 }
 
@@ -98,7 +104,7 @@ button:focus {
 
 }
 
-#dark .contact h2 {
+#dark .contact h1 {
 
   color: white;
 }
@@ -116,6 +122,8 @@ button:focus {
   .contact .card2 {
     margin: 0;
   }
+
+
 
   .contact .card2 h6 {
     display: flex;

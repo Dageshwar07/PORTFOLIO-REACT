@@ -28,9 +28,9 @@ const About = () => {
                             />
                         </div>
                         <div className="col-md-6 col-xl-6 col-lg-6 col-xs-12 about-content">
-                            <h1>About me</h1>
+                            <h1 className='gradient-text'>About me</h1>
                             <hr />
-                            
+
                             <Rotate>
 
                                 <p>

@@ -5,9 +5,9 @@ const Projects = () => {
     return (
         <>
             <div className="continer project" id="projects">
-                <h2 className="col-12 mt-3 mb-1 text-center text-uppercase">
-                    TOP RECENT PROJECTS
-                </h2>
+                <h1 className="gradient-text col-12 mt-3 mb-1 text-center">
+                    Projects
+                </h1>
                 <hr />
                 <p className="pb-3 text-center">
                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia a

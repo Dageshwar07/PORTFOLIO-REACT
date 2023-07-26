@@ -8,9 +8,9 @@ const Techstack = () => {
         <>
             <div className="container techstack" id="techstack">
                 <RubberBand>
-                    <h2 className="col-12 mt-3 mb-1 text-center text-uppercase ">
+                    <h1 className="gradient-text col-12 mt-3 mb-1 text-center  ">
                         Technologies Stack
-                    </h2>
+                    </h1>
                     <hr />
                     <p className="pb-3 text-center">
                         👉 including programming Languages, frameworks, databses, front-end

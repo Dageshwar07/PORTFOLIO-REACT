@@ -19,6 +19,18 @@
 
 }
 
+
+  /* Define the gradient as a background for the text */
+  .gradient-text {
+    background-image: linear-gradient(to right, #22D3EE, #3B82F6);
+    /* Set the background clip to text */
+    -webkit-background-clip: text;
+    background-clip: text;
+    /* Set the text color to transparent, so the gradient background shows through */
+    color: transparent;
+  }
+
+
 .about-content {
     display: flex;
     flex-direction: column;
@@ -27,7 +39,7 @@
 }
 
 .about-content h1 {
-    color: #0ea5e9;
+    /* color: #0ea5e9; */
     font-family: cursive;
     text-align: center;
 }

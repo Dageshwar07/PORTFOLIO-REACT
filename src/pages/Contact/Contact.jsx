@@ -6,9 +6,9 @@ const Contact = () => {
   return (
     <>
       <div className=" contact" id="contact">
-        <h2 className="col-12 mt-3 mb-1 text-center text-uppercase">
+        <h1 className="gradient-text ">
           Contact
-        </h2>
+        </h1>
         <hr />
 
         <div className="card card0 border-0">
