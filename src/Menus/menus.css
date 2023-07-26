@@ -15,8 +15,10 @@
 }
 
 .nav-link {
-    margin-top: 20px;
+    margin-top: 18px;
     cursor: pointer;
+
+
 }
 
 .nav-link svg {
