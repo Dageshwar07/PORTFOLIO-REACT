@@ -31,8 +31,7 @@ const WorkExp = () => {
                 The Codehelp
               </h4>
               <p>
-                Creative Direction, User Experience, Visual Design, Project
-                Management, Team Leading
+                Creating visually appealing and user-friendly interfaces and server-side logic and core functionality that powers the application.
               </p>
             </VerticalTimelineElement>
 
@@ -45,14 +44,15 @@ const WorkExp = () => {
               icon={<SiReact />}
             >
               <h3 className="vertical-timeline-element-title">
-                Full Stack Developer
+                NetWork Engineer
+
               </h3>
               <h4 className="vertical-timeline-element-subtitle">
-                xyz, pvt ltd
+                The Solution pvt ltd , Raipur
+
               </h4>
               <p>
-                Creative Direction, User Experience, Visual Design, Project
-                Management, Team Leading
+                Setting up and managing local area networks (LANs), wide area networks (WANs), and other network segments.
               </p>
             </VerticalTimelineElement>
 
@@ -65,14 +65,13 @@ const WorkExp = () => {
               icon={<SiReact />}
             >
               <h3 className="vertical-timeline-element-title">
-                Full Stack Developer
+                Software Developer
               </h3>
               <h4 className="vertical-timeline-element-subtitle">
-                xyz, pvt ltd
+                Webtech Solution(intern) , Durg
               </h4>
               <p>
-                Creative Direction, User Experience, Visual Design, Project
-                Management, Team Leading
+                Designing and implementing the user interface (UI) and user experience (UX) components that users interact with directly
               </p>
             </VerticalTimelineElement>
 

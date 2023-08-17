@@ -10,11 +10,7 @@ const Projects = () => {
                 </h1>
                 <hr />
                 <p className="pb-3 text-center">
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia a
-                    odit ab, eligendi cupiditate, minima quasi excepturi modi et quo
-                    delectus, iusto dolor atque aliquam aspernatur eveniet! Ipsam eum
-                    nobis omnis id voluptatibus quas eos maxime ipsum facere numquam,
-                    voluptate qui et animi doloribus nulla eius molestiae unde tempore ad
+                    Led the creation of a dynamic e-commerce platform using HTML, CSS, and JavaScript, optimizing for responsiveness and smooth user experience. Integrated secure payment gateway and curated extensive product catalog. Employed RESTful APIs to enhance functionality and collaborated closely with cross-functional teams to deliver within tight deadlines. This initiative led to a notable increase in online sales, heightened user engagement, and positive customer feedback, underscoring the project's significant contribution to the company's digital growth strategy.
                 </p>
                 {/* card design */}
                 <div className="row" id="ads">
