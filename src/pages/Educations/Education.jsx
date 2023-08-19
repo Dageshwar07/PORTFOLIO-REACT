@@ -22,10 +22,10 @@ const Education = () => {
               iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
               icon={<MdCastForEducation />}
             >
-              <h3 className="vertical-timeline-element-title">Creative Director</h3>
-              <h4 className="vertical-timeline-element-subtitle">Miami, FL</h4>
+              <h3 className="vertical-timeline-element-title">B-Tech (computer science)</h3>
+              <h4 className="vertical-timeline-element-subtitle">csvtu,bhilai</h4>
               <p>
-                Creative Direction, User Experience, Visual Design, Project Management, Team Leading
+                As a computer science student, I'll typically learn about programming languages, data structures, software development, databases, computer architecture, operating systems, networking, web development and much more things.
               </p>
             </VerticalTimelineElement>
 
@@ -37,10 +37,10 @@ const Education = () => {
               iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
               icon={<MdCastForEducation />}
             >
-              <h3 className="vertical-timeline-element-title">Creative Director</h3>
-              <h4 className="vertical-timeline-element-subtitle">Miami, FL</h4>
+              <h3 className="vertical-timeline-element-title">Intermediate</h3>
+              <h4 className="vertical-timeline-element-subtitle">govt HSS,saja</h4>
               <p>
-                Creative Direction, User Experience, Visual Design, Project Management, Team Leading
+                As a science student, i have explored topics in physics, chemistry,  mathematics, and possibly other related subjects.  algebra, and more. my studies would have provided a foundation for pursuing higher education or careers in various scientific and technical fields.
               </p>
             </VerticalTimelineElement>
 
@@ -52,10 +52,10 @@ const Education = () => {
               iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
               icon={<MdCastForEducation />}
             >
-              <h3 className="vertical-timeline-element-title">Creative Director</h3>
-              <h4 className="vertical-timeline-element-subtitle">Miami, FL</h4>
+              <h3 className="vertical-timeline-element-title">Matriculation</h3>
+              <h4 className="vertical-timeline-element-subtitle">govt HSS,saja</h4>
               <p>
-                Creative Direction, User Experience, Visual Design, Project Management, Team Leading
+                Engaging in class discussions and group work has likely improved my ability to actively listen and understand different viewpoints.
               </p>
             </VerticalTimelineElement>
           </VerticalTimeline>

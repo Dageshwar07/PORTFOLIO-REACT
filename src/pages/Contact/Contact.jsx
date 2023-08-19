@@ -33,7 +33,7 @@ const Contact = () => {
                     <div className="row">
                       <h6>
                         Contact With
-                        <BsLinkedin color="blue" size={30} className="ms-2" />
+                        <BsLinkedin color="blue" size={30} className="ms-4" />
                         <BsGithub color="black" size={30} className="ms-2" />
                         <BsFacebook color="blue" size={30} className="ms-2" />
                       </h6>

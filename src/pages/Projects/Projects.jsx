@@ -38,7 +38,7 @@ const Projects = () => {
                                     </div>
                                     <a
                                         className="ad-btn"
-                                        href="https://github.com/techinfo-youtube/ecommerce-app-2023"
+                                        href="https://e-comm-front-five.vercel.app/"
                                     >
                                         View
                                     </a>
@@ -67,7 +67,7 @@ const Projects = () => {
                                     </div>
                                     <a
                                         className="ad-btn"
-                                        href="https://github.com/techinfo-youtube/ecommerce-app-2023"
+                                        href="https://blood-bank-vbde.vercel.app/login"
                                     >
                                         View
                                     </a>
@@ -93,7 +93,8 @@ const Projects = () => {
                                     <div className="ad-title m-auto">
                                         <h5 className="text-uppercase">Job Portal</h5>
                                     </div>
-                                    <a className="ad-btn" href="view">
+
+                                    <a className="ad-btn" href="https://github.com/Dageshwar07/JOB-PORTAL">
                                         View
                                     </a>
                                 </div>

@@ -20,7 +20,7 @@ const WorkExp = () => {
               className="vertical-timeline-element--work"
               contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
               contentArrowStyle={{ borderRight: '7px solid  #0ea5e9' }}
-              date="2011 - present"
+              date="2023 - present"
               iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
               icon={<SiReact />}
             >
@@ -39,7 +39,7 @@ const WorkExp = () => {
               className="vertical-timeline-element--work"
               contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
               contentArrowStyle={{ borderRight: '7px solid  #0ea5e9' }}
-              date="2011 - present"
+              date="2022 - 2022"
               iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
               icon={<SiReact />}
             >
@@ -60,7 +60,7 @@ const WorkExp = () => {
               className="vertical-timeline-element--work"
               contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
               contentArrowStyle={{ borderRight: '7px solid  #0ea5e9' }}
-              date="2011 - present"
+              date="2021 - 2022"
               iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
               icon={<SiReact />}
             >
